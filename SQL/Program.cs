@@ -43,7 +43,7 @@ namespace Sample_SQL
                 SqlDataReader reader = command.ExecuteReader();
 
                 while (reader.Read())
-                {    //Every new row will create a new dictionary that holds the columns
+                {    
                     produto = new Produto();
 
                     produto.ProductId = Convert.ToInt32(reader["ProductId"]);
