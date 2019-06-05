@@ -7,7 +7,7 @@
     <ProjectGuid>{88BE7110-DA91-4A64-AF2F-3574330C967B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SQL</RootNamespace>
-    <AssemblyName>SQL</AssemblyName>
+    <AssemblyName>Sample_SQL</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
